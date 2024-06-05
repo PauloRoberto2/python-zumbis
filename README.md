@@ -1,0 +1,1 @@
+Para salvar resolução de exercícios do curso gratuito [python para zumbis](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc) do professor [Fernando Masanori](https://linktr.ee/fmasanori)
