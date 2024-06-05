@@ -1,4 +1,4 @@
-minutos = int(input('Quantos minutos usou o telefone: '))
+minutos = int(input('Minutos: '))
 
 if minutos < 200:
     valor = minutos * 0.20
