@@ -5,4 +5,4 @@ desconto = float(input('Porcentagem de desconto: '))
 
 preco = preco - (preco * desconto) / 100
 
-print(preco)
+print(f'{preco:.2f}')
