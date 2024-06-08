@@ -11,7 +11,6 @@ else:
     menor = num_3
 
 # maior número
-
 if num_1 >= num_2 and num_1 >= num_3:
     maior = num_1
 elif num_2 >= num_1 and num_2 >= num_3:
