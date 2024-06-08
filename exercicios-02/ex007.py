@@ -19,6 +19,6 @@ preco_lata = 80
 valor_pagar = preco_lata * numero_latas
 
 print('~' * 40)
-print(f'Você precisa de int({numero_latas}) latas')
+print(f'Você precisa de {numero_latas} latas')
 print(f'Valor: {valor_pagar}')
 print('~' * 40)
