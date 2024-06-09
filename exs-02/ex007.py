@@ -22,3 +22,4 @@ print(f'Serão usados {litros_pintar:.2f} litros')
 print(f'Você precisa de {numero_latas} latas')
 print(f'Valor: R$ {valor_pagar:.2f}')
 print('~' * 40)
+
