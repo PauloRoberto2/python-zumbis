@@ -6,3 +6,4 @@ aumento = float(input('Percentagem de aumento: '))
 resultado = salario + salario * aumento / 100
 
 print(f'Novo salario: {resultado:.2f}')
+

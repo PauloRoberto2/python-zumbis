@@ -7,3 +7,4 @@ s = int(input('segundos: '))
 
 calculo = d * 24 * 60 * 60 + H * 60 * 60 + m * 60 + s
 print(calculo)
+

@@ -5,4 +5,3 @@ numero_2 = int(input('Segundo número: '))
 
 print(f'A soma dos números é {numero_1 + numero_2}')
 
-
