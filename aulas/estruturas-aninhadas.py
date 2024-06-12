@@ -22,3 +22,4 @@ else:
     valor = 0.08
 
 print(f'R$ {minutos * valor:.2f}')
+
