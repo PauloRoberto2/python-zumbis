@@ -1,4 +1,4 @@
-number = int(input('Número: '))
+number = int(input('número: '))
 
 if number >= 0:
     count = 0
@@ -10,5 +10,5 @@ if number >= 0:
         number_1 = number_1 + 1
         count = count + 1
 else:
-    print('Digite um número positivo')
+    print('digite um número positivo')
 
