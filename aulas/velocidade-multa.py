@@ -10,3 +10,4 @@ else:
     print('~~~~~~~~~~~~~~~~~~~~')
     print('Não foi multado.')
     print('~~~~~~~~~~~~~~~~~~~~')
+
